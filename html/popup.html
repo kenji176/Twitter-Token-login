@@ -1,0 +1,35 @@
+<html>
+<head>
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <script src="bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <script type="text/javascript" src="popup.js"></script>
+
+    <meta charset="UTF-8">
+</head>
+<body class="bg-dark" style="width: 300px;height:135px;">
+    <div class="container  text-white h-100">
+        <div class="title mt-2 mb-2">
+            <div class="row mb-3">
+                <div class="col text-start ">
+                    <span style="color:#1DA1F2" class="me-2">
+                        <i class="fa-solid fa-dove me-1"></i>
+                        Token Login
+                    </span>
+                </div>
+                <div class="col text-end">
+                    <div class="" id="status">
+                        <span class="text-muted me-1">Status</span>
+                        <i class="fa-solid fa-circle mt-1 small"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mb-2" id="auth_eria">
+            <input type="password" class="form-control" list="datalistOptions" id="auth" placeholder="AuthToken" disabled>
+        </div>
+        <div class="d-grid gap-2 ">
+            <button class="btn btn-outline-primary" type="button" id="btn" disabled>Login</button>
+        </div>
+</body>
+</html>

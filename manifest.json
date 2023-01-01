@@ -1,0 +1,18 @@
+{
+   "action": {
+      "default_popup": "html/popup.html"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "https://*.twitter.com/*" ]
+   } ],
+   "icons": {
+      "128": "image/enabled.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4+jngvqxS90hz5WEYjbRV24pbYb9FhGO4uwqh/AOemFuP9yXtxS5qAmLkms2/vdXSY/Cb11UZprqef4yyjlBhO5Fc78dvQTRk/+D+I0A3pqHgsutvjxPl18iLGGs7I2Dzyhts+gECEE5N/dgGBZSFxrxgwkcLo/7+wARonVjzsG6mgWcSoOriIdCdAofYFB7TZbzh7ro7fx2kFFLW1BlxAcCEp955ZiieaXtCBV/4BulGvB1Gv5f8bs1OaDYhKSvhjhzBhDxNq4NkWfC59SuxW6mo/365eqChHJK33DzvW1TGC9iI2iKgguLjLkj1OGJdAK1l/0uuQszqcwdBnwvyQIDAQAB",
+   "manifest_version": 3,
+   "name": "Twitter Token login",
+   "permissions": [ "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}
