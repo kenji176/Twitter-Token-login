@@ -8,10 +8,10 @@
 
 ## Demo
 
-~~ ➀ https://twitter.com/home
+~~➀ https://twitter.com/home
 にアクセスして、拡張機能のアイコンをクリック~~ 
 
-~~ ➁事前に用意したAutotokenを入力してLoginをタップ~~ 
+~~➁事前に用意したAutotokenを入力してLoginをタップ~~ 
 
 
 ## Authors
