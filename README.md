@@ -10,6 +10,7 @@
 
 ~~ ➀ https://twitter.com/home
 にアクセスして、拡張機能のアイコンをクリック~~ 
+
 ~~ ➁事前に用意したAutotokenを入力してLoginをタップ~~ 
 
 
