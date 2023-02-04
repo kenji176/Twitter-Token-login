@@ -1,7 +1,7 @@
 
 # Twitter Token login
 
-~~TwitterのAuthTokenを利用してログインが可能です~~ 
+~~TwitterのAuthTokenを利用してログインが可能です~~
 ※現在この拡張機能は機能しません
 
 [chrome拡張機能←](https://chrome.google.com/webstore/detail/twitter-token-login/gceojnffehjfnkoifconnifeameehhad?hl=ja&authuser=0)
